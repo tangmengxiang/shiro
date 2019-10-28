@@ -1,0 +1,5 @@
+com\tmx\service\UserServiceDao.class
+com\tmx\mapper\UserMapper.class
+com\tmx\domian\User.class
+com\tmx\service\Impl\UserServiceImpl.class
+com\tmx\web\realm\UserRealm.class
